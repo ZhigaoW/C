@@ -112,6 +112,7 @@ if(argc > 1){
     remove(NEW_FILE_NAME);
 }
 
+/* 下面一部分改写格式化输入输出了 */
 
 
 
